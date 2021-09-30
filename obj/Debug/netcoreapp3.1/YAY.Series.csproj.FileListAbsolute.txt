@@ -1,0 +1,13 @@
+C:\Users\Rojah\Desktop\Coding Seas\new\test\YAY.Series\bin\Debug\netcoreapp3.1\YAY.Series.exe
+C:\Users\Rojah\Desktop\Coding Seas\new\test\YAY.Series\bin\Debug\netcoreapp3.1\YAY.Series.deps.json
+C:\Users\Rojah\Desktop\Coding Seas\new\test\YAY.Series\bin\Debug\netcoreapp3.1\YAY.Series.runtimeconfig.json
+C:\Users\Rojah\Desktop\Coding Seas\new\test\YAY.Series\bin\Debug\netcoreapp3.1\YAY.Series.runtimeconfig.dev.json
+C:\Users\Rojah\Desktop\Coding Seas\new\test\YAY.Series\bin\Debug\netcoreapp3.1\YAY.Series.dll
+C:\Users\Rojah\Desktop\Coding Seas\new\test\YAY.Series\bin\Debug\netcoreapp3.1\YAY.Series.pdb
+C:\Users\Rojah\Desktop\Coding Seas\new\test\YAY.Series\obj\Debug\netcoreapp3.1\YAY.Series.csprojAssemblyReference.cache
+C:\Users\Rojah\Desktop\Coding Seas\new\test\YAY.Series\obj\Debug\netcoreapp3.1\YAY.Series.AssemblyInfoInputs.cache
+C:\Users\Rojah\Desktop\Coding Seas\new\test\YAY.Series\obj\Debug\netcoreapp3.1\YAY.Series.AssemblyInfo.cs
+C:\Users\Rojah\Desktop\Coding Seas\new\test\YAY.Series\obj\Debug\netcoreapp3.1\YAY.Series.csproj.CoreCompileInputs.cache
+C:\Users\Rojah\Desktop\Coding Seas\new\test\YAY.Series\obj\Debug\netcoreapp3.1\YAY.Series.dll
+C:\Users\Rojah\Desktop\Coding Seas\new\test\YAY.Series\obj\Debug\netcoreapp3.1\YAY.Series.pdb
+C:\Users\Rojah\Desktop\Coding Seas\new\test\YAY.Series\obj\Debug\netcoreapp3.1\YAY.Series.genruntimeconfig.cache
